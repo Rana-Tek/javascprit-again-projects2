@@ -63,10 +63,8 @@ body{
 
 .leftPanel {
     display: inline-block;
-    border: 1px solid #ddd;
-    border-radius: 1px;
-    width: 80px;
-    text-align: center;
-    padding: 10px;
-    margin: ;
+}
+
+.numbers div {
+    display: inline-block;
 }
